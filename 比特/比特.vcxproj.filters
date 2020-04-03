@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="宏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出1到100之间的奇数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针比较三个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="各数据类型所占字节.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="if + while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="星期.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符输入输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印0-9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组经典错误.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组打印语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找法查找数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="密码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猜数字游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="goto语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断闰年.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="用指针交换两个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分割整数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列（递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列（循环）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组（二）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组（三）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组（四）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组（一）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三子棋.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="异或交换数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求整数二级制数中的1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="操作符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针（二级）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体(一）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="调试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
