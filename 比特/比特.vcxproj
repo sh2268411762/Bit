@@ -157,6 +157,7 @@
     <ClCompile Include="指针比较三个数.c" />
     <ClCompile Include="指针（二级）.c" />
     <ClCompile Include="操作符.c" />
+    <ClCompile Include="数据存储.c" />
     <ClCompile Include="数组.c" />
     <ClCompile Include="数组打印语句.c" />
     <ClCompile Include="数组经典错误.c" />

@@ -1,4 +1,2 @@
-﻿  调试.c
-C:\Users\lenovo\source\repos\比特\比特\调试.c(22,22): warning C4133: “函数”: 从“int *”到“const char *”的类型不兼容
-C:\Users\lenovo\source\repos\比特\比特\调试.c(21,1): warning C4133: “初始化”: 从“char [7]”到“int *”的类型不兼容
+﻿  数据存储.c
   比特.vcxproj -> C:\Users\lenovo\source\repos\比特\Debug\比特.exe
